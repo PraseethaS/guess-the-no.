@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent-container{
+    background:linear-gradient(to right,pink,orange) ;
+    width: 100vw;
+    height: 100vh;
+
+}
+#attemptsLabel{
+    text-align: end;
+}
+#title{
+        text-align: center;
+        
+}
+.container{
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 30vh;
+    width:50vw;
+    text-align: center;
+    background: white;
+
+}
+.input-container{
+    background: white;
+}
+#heading{
+    background: white;
+}
+#textLabel{
+    background: white;
+}
+#textBox{
+height:6vh;
+width: 20vw;
+}
+#checkButton{
+    height:6vh;
+    width: 20vw;
+}
+
+#circle{
+    border: 2px solid black;
+    border-radius: 50px;
+    color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 90%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#attemptCount{
+    text-align: center;
+    padding-top: 40px;
+}
+
